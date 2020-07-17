@@ -11,3 +11,4 @@ board.lists.forEach(function(list) {
 });
 
 $boardContainer.textContent = JSON.stringify(board);
+alert('Hello world!');
